@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bambino.aternos.host:64916",
+    "ip": "bambino.aternos.host",
     "port": 64916,
     "version": "1.21",
     "try-creative": false
